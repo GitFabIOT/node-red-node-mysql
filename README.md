@@ -2,6 +2,9 @@ node-red-node-mysql
 ========================
 A <a href="http://nodered.org" target="_new">Node-RED</a> node to read and write to a MySQL database.
 
+This repo is a fork of https://github.com/node-red/node-red-nodes/tree/master/storage/mysql using connection to database by a pool.
+
+
 Install
 -------
 
